@@ -15,4 +15,4 @@
 -- YOUR CODE HERE
 SELECT id, name 
 FROM units_of_measure
-ORDER BY name
+ORDER BY name;
